@@ -4,7 +4,9 @@
 
 ### Обо мне:
 
-Я начинающий веб разработчик. Мой путь в it начался со школы, класса с 8, где во время карантина я начал изучать вёртку, а потом затянуло.И сейчас я здесь с опытом самостоятельного изучения фронтенда и его стека 3 года.Пробывал изучать другие сферы такие как 1С и чуть чуть бэкенд но ничто меня так не цепляет как фронтенд.Хочу расти и развиватся, пока что работу ненашёл, но верю что найду в ближайшее время.<strong>You're welcome</strong>
+Я начинающий веб разработчик. Мой путь в it начался со школы, класса с 8, где во время карантина я начал изучать вёртку, а потом затянуло.И сейчас я здесь с опытом самостоятельного изучения 
+фронтенда и его стека 3 года.Пробывал изучать другие сферы такие как 1С и чуть чуть бэкенд, но ничто меня так не цепляет как фронтенд.Хочу расти и развиватся, пока что работу ненашёл,
+но верю что найду в ближайшее время.<strong>You're welcome</strong>
 
 
 
@@ -48,17 +50,21 @@
 
 ![codewars](https://www.codewars.com/users/nevrox/badges/large)
 
-### ⚙️ GitHub статистика:
-[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=nevroks&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/nevroks)
-    <img width="100%" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nevroks&layout=compact&theme=vision-friendly-dark" />
+---
 
-<table>
-  <tr>
-    <td>[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=nevroks&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/nevroks)</td>
-    <td><img width="100%" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nevroks&layout=compact&theme=vision-friendly-dark" /></td>
-  </tr>
+### ⚙️ GitHub статистика:
+  <table align="left">
+    <tr>
+      <td><img width="100%" height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nevroks&layout=compact&theme=vision-friendly-dark" /></td>
+      <td><img width="100%" height="195px" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api?username=nevroks&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"/></td>
+    </tr>
+  </table>
+
+    
+ 
   
-</table>
+  
+
 
 
 
